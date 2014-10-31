@@ -1,0 +1,3 @@
+var proudct = {id:1,name:'测试产品',pic:'xxxx.jpg'};
+var userList = [{id:2,name:'用户一'}];
+var session= {admin:{id:1,name:'admin'}};

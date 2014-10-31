@@ -1,0 +1,3 @@
+var name = "liyf";
+var age = 13;
+var loves = ["apple","banana","orange"];
